@@ -1,0 +1,5 @@
+Diese Datei bekommt jetzt einen neuen Inhalt
+Danach werde ich die Datei local committen und dann versuchen zu pushen
+Das Problem wird aber sein, dass meine local repository nicht aktuell ist
+Ich muss erst einen pull machen um meine local repository auf den neuesten stand zu bringen
+Danach kann ich meine eigenen Erweiterungen in die main repository pushen
